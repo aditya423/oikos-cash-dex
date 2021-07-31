@@ -1,0 +1,5 @@
+To change page title
+public ==> index.html
+
+To change page body
+src ==> App.js
