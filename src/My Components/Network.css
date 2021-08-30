@@ -1,0 +1,27 @@
+.network-page {
+    background: #06061b;
+}
+
+.network {
+    padding-top: 120px;
+    padding-bottom: 20px;
+    margin-left: 58px;
+    color: white;
+    font-weight: 1000;
+    font-size: 32px;
+    line-height: 120%;
+    font-family: GT America Expanded Black,sans-serif;
+}
+
+.outside-box {
+    background: #06061b;
+    height: 100px;
+}
+
+.inside-box {
+    background: #09092f;
+    height: 100px;
+    margin-left: 57px;
+    margin-right: 75px;
+}
+

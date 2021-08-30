@@ -1,10 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './My Components/Header';
+import Network from './My Components/Network';
 
 function App() {
   return (
     <>
-    <h3>Here we gonna code our website...</h3>
+      <Header></Header>
+      <Network></Network>
     </>
   );
 }
