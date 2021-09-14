@@ -1,7 +1,7 @@
 
-# Clone of oikos-crash-dex
+# Clone of oikos-cash-dex
 
-# FRONTEND_TEAM 8
+# FRONTEND_TEAM_8
 
 # Team Members:
 * Roslin
