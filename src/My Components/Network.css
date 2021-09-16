@@ -234,18 +234,38 @@ div {
 
 @media (max-width: 767px) {
     .state-box-1 {
-        margin-left: 2%;
+        margin-left: 8%;
         margin-right: 2%;
     }
     
     .state-box-2 {
-        margin-left: 2%;
+        margin-left: 8%;
         margin-right: 2%;
     }
     
     .state-box-3 {
-        margin-left: 2%;
+        margin-left: 8%;
         margin-right: 2%;
+    }
+
+    .state-box-11 {
+        margin-left: 8%;
+    }
+
+    .state-box-22 {
+        margin-left: 8%;
+    }
+
+    .state-box-33 {
+        margin-left: 8%;
+    }
+
+    .state-box-44 {
+        margin-left: 8%;
+    }
+
+    .state-box-333 {
+        margin-left: 8%;
     }
     
 }
@@ -352,4 +372,445 @@ div {
     background: #09092f;
     opacity: 0.8;
     box-shadow: 0px 0px 20px rgb(0 0 0 / 40%);
+}
+
+.stakers-graph {
+    background: #09092f;
+    margin: 20px auto;
+    max-width: 1226px;
+}
+
+.stakers-graph-head {
+    height: 100px;
+    width: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.stakers-graph-left {
+    padding-left: 30px;
+    padding-top: 30px;
+    width: 260px;
+    z-index: 100;
+    color: #ffffff;
+}
+
+.total-with-i {
+    display: flex;
+    margin-top: -40px;
+}
+
+.stakers-graph-head-main {
+    font-family: GT America Condensed-Medium,sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.price-of-green {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100px;
+    margin-top: 10px;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+.green-price {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 24px;
+    color: #31D8A4;
+    margin-right: 10px;
+    font-family: GT America Mono,sans-serif;
+}
+
+.green-box {
+    width: 52px;
+    height: 22px;
+    margin-bottom: 15px;
+    text-align: center;
+    padding: 4px 6px 0 6px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: 'Inter',sans-serif;
+    background: #31D8A4;
+    border-radius: 2px;
+    width: 100px;
+}
+
+.stakers-graph-right {
+    padding-right: 40px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    width: 200px;
+    z-index: 100;
+}
+
+.www {
+    cursor: pointer;
+    height: 25px;
+    width: 25px;
+    font-size: 12px;
+    color: rgba(255,255,255,0.46);
+    font-family: GT America Condensed-Bold,sans-serif;
+}
+
+.mmm {
+    cursor: pointer;
+    height: 25px;
+    width: 25px;
+    font-size: 12px;
+    color: rgba(255,255,255,0.46);
+    font-family: GT America Condensed-Bold,sans-serif;
+}
+
+.yyy {
+    cursor: pointer;
+    height: 25px;
+    width: 25px;
+    font-size: 12px;
+    color: #ffffff;
+    font-family: GT America Condensed-Bold,sans-serif;
+}
+
+.style-1 {
+    width: 100%; 
+    height: 300px
+}
+
+.style-2 {
+    position: relative; 
+    cursor: default; 
+    width: 1226px; 
+    height: 300px;
+}
+
+.style-3 {
+    pointer-events: none; 
+    visibility: visible; 
+    position: absolute; 
+    top: 0px; 
+    transform: translate(313.905px, 179px); 
+    transition: -webkit-transform 400ms ease 0s;
+}
+
+.style-4 {
+    margin: 0px; 
+    padding: 10px; 
+    background-color: rgb(16, 16, 78); 
+    border: none; 
+    white-space: nowrap; 
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 20px;
+}
+
+.style-5 {
+    margin: 0px; 
+    color: rgba(255, 255, 255, 0.46); 
+    font-family: Inter, sans-serif; 
+    font-style: normal; 
+    font-weight: bold; 
+    font-size: 10px; 
+    line-height: 10px; 
+    text-align: center; 
+    text-transform: uppercase;
+}
+
+.style-6 {
+    padding: 0px; 
+    margin: 0px;
+}
+
+.style-7 {
+    display: block; 
+    padding-top: 6px; 
+    padding-bottom: 4px; 
+    color: rgb(255, 255, 255); 
+    font-family: GT America Mono, sans-serif; 
+    font-style: normal; 
+    font-weight: bold; 
+    font-size: 16px; 
+    line-height: 18px; 
+    text-align: center; 
+    text-transform: uppercase;
+}
+
+.style-8 {
+    position: absolute; 
+    width: 0px; 
+    height: 0px; 
+    visibility: hidden; 
+    display: none;
+}
+
+.liquidations {
+    background: #09092f;
+    max-width: 1186px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.liquidations-head {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 24px;
+    color: #ffffff;
+    margin: 10px 0;
+    font-family: GT America Expanded Black,sans-serif;
+}
+
+.liquidations-discription {
+    margin: 10px 0 20px 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #ffffff;
+    opacity: 0.5;
+    font-family: 'Inter',sans-serif;
+}
+
+.liquidations-table {
+    overflow: auto;
+    max-width: 1226px;
+    margin: 0px auto;
+}
+
+.liquidations-table-2 {
+    min-width: 600px;
+    width: 100%;
+    height: 100%;
+    overflow-x: auto;
+    position: relative;
+    min-width: 1050px !important;
+}
+
+.liquidations-table-head {
+    display:flex;
+    flex:1 0 auto;
+    min-width:0px;
+    background-color: #09092f;
+    height: 40px;
+}
+
+.wallet-address {
+    box-sizing:border-box;
+    flex:200 0 auto;
+    min-width:0px;
+    width:200px;
+    border-left: 1px solid #161b44;
+}
+
+.wallet-address-main {
+    font-family: GT America Condensed-Medium;
+    font-size: 13px;
+    line-height: 18px;
+    color: #ffffff;
+}
+
+.time-to-liquidation {
+    box-sizing:border-box;
+    flex:100 0 auto;
+    min-width:0px;
+    width:100px;
+    cursor:pointer;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-size: 12px;
+    height: 40px;
+    border-right: 1px solid #161b44;
+    padding-left: 30px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: #ffffff;
+    background-color: #161b44;
+}
+
+.time-to-liquidation-main {
+    font-size: 13px;
+    line-height: 18px;
+    color: #ffffff;
+}
+
+.up-symbol {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-left: 5px;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+.current-c-ratio {
+    box-sizing:border-box;
+    flex:100 0 auto;
+    min-width:0px;
+    width:100px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-size: 12px;
+    height: 40px;
+    border-right: 1px solid #161b44;
+    padding-left: 30px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: #ffffff;
+    background-color: #161b44;
+}
+
+.current-c-ratio-main {
+    font-size: 13px;
+    line-height: 18px;
+    color: #ffffff;
+}
+
+.liquidable-amount {
+    box-sizing:border-box;
+    flex:100 0 auto;
+    min-width:0px;
+    width:100px;
+    cursor:pointer;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-size: 12px;
+    height: 40px;
+    border-right: 1px solid #161b44;
+    padding-left: 30px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: #ffffff;
+    background-color: #161b44;
+}
+
+.liquidable-amount-main {
+    font-size: 13px;
+    line-height: 18px;
+    color: #ffffff;
+}
+
+.amt-to-cov-debt {
+    box-sizing:border-box;
+    flex:100 0 auto;
+    min-width:0px;
+    width:100px;
+    cursor:pointer;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-size: 12px;
+    height: 40px;
+    border-right: 1px solid #161b44;
+    padding-left: 30px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: #ffffff;
+    background-color: #161b44;
+}
+
+.amt-to-cov-debt-main {
+    user-select: none;
+}
+
+.wa {
+    display: flex; 
+    flex: 1 0 auto; 
+    min-width: 0px;
+    height: 40px;
+    cursor: default;
+    background-color: #09092f;
+    border-bottom: 1px solid #161b44;
+}
+
+.wa-1 {
+    box-sizing: border-box; 
+    flex: 200 0 auto; 
+    min-width: 0px; 
+    width: 200px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-size: 12px;
+    height: 40px;
+    border-right: 1px solid #161b44;
+    padding-left: 30px;
+}
+
+.wa-main {
+    font-family: 'Inter',sans-serif;
+}
+
+.liquidations-table-body {
+    overflow-y: auto;
+    overflow-x: hidden;
+    max-height: calc(100% - 40px);
 }

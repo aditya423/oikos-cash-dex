@@ -89,8 +89,8 @@ export default function Header() {
                     <input type="radio" name="slider" id="close-btn" />
                     <ul className="nav-links">
                         <label for="close-btn" className="btn close-btn"><i className="fas fa-times"></i></label>
-                        <li><a href="#">NETWORK</a></li>
-                        <li><a href="#">STAKING</a></li>
+                        <li><a href="network-page">NETWORK</a></li>
+                        <li><a href="staking-page">STAKING</a></li>
                         <li><a href="#">TRADING</a></li>
                         <li><a href="#">SYNTHS</a></li>
                     </ul>
