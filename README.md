@@ -8,7 +8,7 @@
 * Sanika
 * Aditya
 * Shruti 
-* Manjot
+* Manjot - BscScan page whole
 
 # Technologies Used:
  React
