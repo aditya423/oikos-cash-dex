@@ -1,6 +1,5 @@
 import React from 'react';
 import {LanguageImage , Wrapper, Languages,LanguageElement } from './DropdownElements';
-import globe from '../../images/globe.svg';
 import OutsideClickHandler from 'react-outside-click-handler';
 import i18n from 'i18next';
 

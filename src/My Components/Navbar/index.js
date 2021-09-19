@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { withTranslation } from 'react-i18next';
-import { NavbarContainer, NavLogo,LanguageButtonWrapper,RoundButton,Icon,Filler} from './navbarElements'
+import { NavbarContainer, NavLogo,LanguageButtonWrapper,RoundButton} from './navbarElements'
 import logo from '../../images/oikos-logo.png';
 import globe from '../../images/globe.svg';
 import { LanguageDropdown } from '../Dropdown';
