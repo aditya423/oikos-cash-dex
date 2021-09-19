@@ -15,8 +15,13 @@
 * Since Roslin didn't worked we were not able to connect the pages with the front page, so we merged it in a single page. After merging we got the issues with CSS was not working as expected, but also didn't got any time to work on it
 
 # Project Working:
-We hosted out work on Netlify to see that [click-here](https://oikos-cash-dex.netlify.app/). If you have to **Run** this project follow this steps:
-* 
+We hosted out work on Netlify to see that [click-here](https://oikos-cash-dex.netlify.app/). 
 
-# Technologies Used:
- React
+If you have to **Run** this project follow this steps:
+1) Fork the repository
+2) Go inside the folder oikos-cash-dex in the Command Prompt 
+3) Type the command "npm start" 
+4) This will start the development server and you can see the website same as we hosted 
+
+# Technology Used:
+ ReactJS
