@@ -20,7 +20,7 @@ We hosted out work on Netlify to see that [click-here](https://oikos-cash-dex.ne
 
 If you want to **Run** this project follow this steps:
 1) **Fork** the repository
-2) Go inside the folder **oikos-cash-dex** in the Command Prompt 
+2) Go inside the folder **oikos-cash-dex in the Command Prompt** 
 3) Type the command "**npm start**" 
 4) This will start the **development server** and you can see the website same as we hosted 
 
