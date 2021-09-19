@@ -17,7 +17,7 @@
 # Project Working:
 We hosted out work on Netlify to see that [click-here](https://oikos-cash-dex.netlify.app/). 
 
-If you have to **Run** this project follow this steps:
+If you want to **Run** this project follow this steps:
 1) Fork the repository
 2) Go inside the folder oikos-cash-dex in the Command Prompt 
 3) Type the command "npm start" 
