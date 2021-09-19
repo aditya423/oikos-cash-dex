@@ -4,11 +4,11 @@
 # FRONTEND_TEAM_8
 
 # Team Members:
-* Roslin
-* Sanika
+* Sanika [GitHub] (https://github.com/sanika-1)
 * Aditya
-* Shruti 
 * Manjot - BscScan page whole
+* Roslin
+* Shruti
 
 # Technologies Used:
  React
