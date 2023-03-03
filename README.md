@@ -1,9 +1,7 @@
 
-# Clone of oikos-cash-dex
-
 # FRONTEND_TEAM_8
 
-# Team Members:
+## Team Members:
 * Sanika: [GitHub](https://github.com/sanika-1) [LinkedIn](https://www.linkedin.com/in/sanika-acharya/) : Minter page
 * Aditya: [GitHub](https://github.com/aditya423) [LinkedIn](https://www.linkedin.com/in/aditya-ghadge-7045805009/) : Stats page
 * Manjot: [GitHub](https://github.com/manjxt) [LinkedIn](https://www.linkedin.com/in/manjot-kaur-60aa1b1a6/) : BSC Scan page
@@ -16,5 +14,5 @@ If you want to **Run** this project follow this steps:
 3) Type the command "**npm start**" 
 4) This will start the **development server** and you can see the website same as we hosted 
 
-# Technology Used:
+## Technology Used:
  ReactJS
